@@ -8,7 +8,7 @@ availability_zone = "us-east-1a"
 bundle_id = "small_1_0"
 tags = {
   Name = "server"
-  Environment = "test"
+  Environment = "dev"
 }
 }
 
